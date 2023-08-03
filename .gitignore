@@ -1,0 +1,17 @@
+# Dependency directories
+node_modules/
+
+# Optional npm cache directory
+.npm
+
+# dotenv environment variables file
+.env
+
+#code configs
+.vscode
+*.code-workspace
+
+# misc
+.DS_Store
+
+reports/
